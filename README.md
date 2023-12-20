@@ -106,24 +106,4 @@
 - What makes an object different than an array?
 - What would the following code `console.log`?
 
-------------
 
-### UI/UX Wireframes
-#### Mobile:
-![Mobile - Splash](http://stimhaus.com/image-assets-public/quiz-app/wireframes-02.jpg)
-![Mobile - Mid Quiz](http://stimhaus.com/image-assets-public/quiz-app/wireframes-03.jpg)
-![Mobile - Results](http://stimhaus.com/image-assets-public/quiz-app/wireframes-04.jpg)
-#### Tablet
-![Tablet - Splash](http://stimhaus.com/image-assets-public/quiz-app/wireframes-05.jpg)
-![Tablet - Mid Quiz](http://stimhaus.com/image-assets-public/quiz-app/wireframes-06.jpg)
-![Tablet - Results](http://stimhaus.com/image-assets-public/quiz-app/wireframes-07.jpg)
-### Desktop
-![Desktop - Splash](http://stimhaus.com/image-assets-public/quiz-app/wireframes-08.jpg)
-![Desktop - Mid Quiz](http://stimhaus.com/image-assets-public/quiz-app/wireframes-09.jpg)
-![Desktop - Results](http://stimhaus.com/image-assets-public/quiz-app/wireframes-10.jpg)
-
-### HTML Responsive Mockups
-Launch: [Launch Wireframe](https://sinsys.github.io/quiz-app-remastered/wireframes/launch.html "Launch Wireframe")  
-Question: [Question Wireframe](https://sinsys.github.io/quiz-app-remastered/wireframes/question.html "Question Wireframe")  
-Feedback: [Feedback Wireframe](https://sinsys.github.io/quiz-app-remastered/wireframes/feedback.html "Feedback Wireframe")  
-Results: [Results Wireframe](https://sinsys.github.io/quiz-app-remastered/wireframes/results.html "Results Wireframe")  
